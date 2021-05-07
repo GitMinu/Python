@@ -1,0 +1,22 @@
+Python:
+Guido van Rossum - Invented- 1970
+
+Data type:
+int
+float
+boolean
+complex
+string
+
+Datastructture:
+list
+set
+frozen set
+tuple
+dictionary
+
+Collections:
+Advanced daatastructures:
+
+
+
